@@ -1,0 +1,15 @@
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\bin\Debug\net6.0\LeaveManagement.Application.deps.json
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\bin\Debug\net6.0\LeaveManagement.Application.dll
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\bin\Debug\net6.0\LeaveManagement.Application.pdb
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\bin\Debug\net6.0\LeaveManagement.Domain.dll
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\bin\Debug\net6.0\LeaveManagement.Domain.pdb
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\LeaveManagement.Application.csproj.CopyComplete
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\LeaveManagement.Application.dll
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\refint\LeaveManagement.Application.dll
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\LeaveManagement.Application.pdb
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Application\obj\Debug\net6.0\ref\LeaveManagement.Application.dll

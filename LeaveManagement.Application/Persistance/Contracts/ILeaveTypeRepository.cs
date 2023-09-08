@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LeaveManagement.Application.Persistance.Contracts
 {
-    public interface ILeaveAllocationRepository : IGenericRepository<LeaveAllocation>
+    public interface ILeaveTypeRepository : IGenericRepository<LeaveType>
     {
     }
 }
