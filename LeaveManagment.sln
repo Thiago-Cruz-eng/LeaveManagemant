@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A4BD120A-8A6E-4C61-9412-3D4F0E6291BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0D0ACC97-249F-4073-AA9B-54D733FCB710}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{10B68CAF-EE1D-46A4-8D80-A546D3C72C92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{044CFCE2-6461-4BD2-A321-7568774761A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{C95C238F-6232-458D-A72C-D67941A4145C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7EEDD0D3-F0C2-45C1-8798-453E7D5BA9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagement.Domain", "LeaveManagement.Domain\LeaveManagement.Domain.csproj", "{3EE7B09F-559E-4011-8253-F48B84EBF6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE7B09F-559E-4011-8253-F48B84EBF6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE7B09F-559E-4011-8253-F48B84EBF6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE7B09F-559E-4011-8253-F48B84EBF6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE7B09F-559E-4011-8253-F48B84EBF6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10B68CAF-EE1D-46A4-8D80-A546D3C72C92} = {A4BD120A-8A6E-4C61-9412-3D4F0E6291BA}
+		{044CFCE2-6461-4BD2-A321-7568774761A5} = {A4BD120A-8A6E-4C61-9412-3D4F0E6291BA}
+		{C95C238F-6232-458D-A72C-D67941A4145C} = {A4BD120A-8A6E-4C61-9412-3D4F0E6291BA}
+		{7EEDD0D3-F0C2-45C1-8798-453E7D5BA9C2} = {A4BD120A-8A6E-4C61-9412-3D4F0E6291BA}
+		{3EE7B09F-559E-4011-8253-F48B84EBF6FA} = {044CFCE2-6461-4BD2-A321-7568774761A5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64DC4C95-3EA6-4DD5-8025-5988A1F01369}
+	EndGlobalSection
+EndGlobal
