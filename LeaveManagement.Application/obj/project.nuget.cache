@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "/CCALgLyb5VDQl0gLw86MaXf8Bm8mDBc1VFWf9jTUCdCxU4bgQLfpLwx00LKWgsVezIfZP07FpAm1te4167lQQ==",
+  "dgSpecHash": "ctfkf9/1uqoQkXaQxtEv0qNEcKcZVQcov0dRVkfjUr3e0zKF1InPsfCURBGjgxNkNtf9oVWAgstyJv1oww1Yow==",
   "success": true,
   "projectFilePath": "C:\\Users\\thiago.cruz\\Documents\\Proj\\Pessoal\\LeaveManagment\\LeaveManagement.Application\\LeaveManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiago.cruz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\thiago.cruz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\thiago.cruz\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\thiago.cruz\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\thiago.cruz\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\thiago.cruz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\thiago.cruz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\thiago.cruz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\thiago.cruz\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\thiago.cruz\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\thiago.cruz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
