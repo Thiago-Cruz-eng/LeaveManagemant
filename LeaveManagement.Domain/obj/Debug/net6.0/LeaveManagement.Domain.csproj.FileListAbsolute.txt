@@ -1,0 +1,11 @@
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\bin\Debug\net6.0\LeaveManagement.Domain.deps.json
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\bin\Debug\net6.0\LeaveManagement.Domain.dll
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\bin\Debug\net6.0\LeaveManagement.Domain.pdb
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\obj\Debug\net6.0\LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\obj\Debug\net6.0\LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\obj\Debug\net6.0\LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\obj\Debug\net6.0\LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\obj\Debug\net6.0\LeaveManagement.Domain.dll
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\obj\Debug\net6.0\refint\LeaveManagement.Domain.dll
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\obj\Debug\net6.0\LeaveManagement.Domain.pdb
+C:\Users\thiago.cruz\Documents\Proj\Pessoal\LeaveManagment\LeaveManagement.Domain\obj\Debug\net6.0\ref\LeaveManagement.Domain.dll
